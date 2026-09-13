@@ -1,21 +1,58 @@
-MIT License
+ TerraIntel Proprietary License
 
-Copyright (c) 2026 Nicholas Gachaga 
+Copyright © 2026 Nicholas Kiai. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ 1. Ownership
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+TerraIntel, including its source code, software architecture, algorithms, models, interfaces, documentation, designs, databases, configurations, and related materials, is proprietary software owned by Nicholas Kiai, except where otherwise expressly stated or where third-party components are subject to their own licenses.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ 2. Restrictions
+
+No person or organization may, without prior written permission from the copyright owner:
+
+* Copy, reproduce, or redistribute the TerraIntel source code.
+* Modify, adapt, translate, or create derivative works based on the TerraIntel source code.
+* Publish, upload, mirror, or otherwise make the source code available to the public.
+* Sell, sublicense, lease, or otherwise distribute the source code or substantial portions of it.
+* Use the source code to create, operate, or commercialize a competing product or service.
+* Incorporate substantial portions of the source code into another software product or service.
+* Remove or alter copyright, ownership, licensing, or proprietary notices.
+* Use TerraIntel's proprietary source code, architecture, algorithms, or other protected materials for commercial purposes without written authorization.
+
+ 3. Application Access
+
+Access to a deployed TerraIntel application does not grant any ownership rights or rights to the underlying source code.
+
+Users may access and use the deployed application only in accordance with the terms, policies, and permissions established by the application owner.
+
+Access to the application does not constitute a license to copy, modify, reverse engineer, reproduce, redistribute, or commercially exploit the underlying software.
+
+ 4. Authorized Access
+
+The copyright owner may grant specific individuals or organizations permission to access, use, modify, or distribute portions of TerraIntel under a separate written agreement.
+
+Such permission must be explicitly granted and does not extend beyond the scope specified in that agreement.
+
+ 5. Third-Party Components
+
+TerraIntel may contain or depend upon third-party software, libraries, frameworks, datasets, APIs, or other materials that are distributed under their own respective licenses.
+
+Those third-party licenses remain applicable to the relevant components and are not replaced by this license.
+
+Nothing in this license is intended to restrict rights that cannot legally be restricted under an applicable third-party license.
+
+ 6. No Warranty
+
+TerraIntel is provided on an "as is" basis, without warranties of any kind, to the maximum extent permitted by applicable law.
+
+ 7. Reservation of Rights
+
+All rights not expressly granted under this license are reserved by the copyright owner.
+
+No license, permission, or other right is granted by implication, estoppel, or otherwise.
+
+ 8. Contact and Licensing Requests
+
+Requests for commercial licensing, collaboration, source-code access, redistribution rights, or other permissions should be directed to the copyright owner.
+
+Copyright © 2026 Nicholas Kiai. All Rights Reserved.
